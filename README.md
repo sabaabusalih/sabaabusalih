@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saba, a General Dentist and Certified Professional in Healthcare Quality (CPHQ)
-- 👀 I’m interested in Healthcare Data Analytics in the context of Healthcare Quality and Patient Safety 
+- 👀 I’m interested in Healthcare Data Analytics in the context of Quality Improvement and Patient Safety 
 - 🌱 I’m currently learning Excel, Python and Tableau
 - 💞️ I’m looking to collaborate on Hospital Data Analytics projects
 - 📫 How to reach me: Linkedin.com/in/sabaabusalih
